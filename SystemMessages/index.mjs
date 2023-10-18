@@ -1,0 +1,1 @@
+export const SERVER_IS_LISTENING_ON_PORT  = 'Server is listening on port:'
